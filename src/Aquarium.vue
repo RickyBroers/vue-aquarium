@@ -1,7 +1,4 @@
-<script setup lang="ts">
-const AQUARIUM_HEIGHT = 1080;
-const AQUARIUM_WIDTH = 1720;
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <div id="aquarium">

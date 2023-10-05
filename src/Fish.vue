@@ -1,7 +1,7 @@
 <script setup lang="ts">
 // import { ref } from "vue";
 import { computed, onMounted, reactive, ref } from "vue";
-import { FISH_TYPE, FishType } from "./types/FishType";
+import { FishType } from "./types/FishType";
 
 import fishSkeleton from "./../public/dead.png";
 

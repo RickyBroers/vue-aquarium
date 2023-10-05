@@ -5,8 +5,6 @@ import FishForm from "./FishForm.vue";
 import { IFish } from "./interfaces/IFish";
 import Fish from "./Fish.vue";
 
-// import guppie from "../public/guppie.png";
-
 const fishes = ref<IFish[]>([]);
 
 const addFish = (fish: IFish) => {
